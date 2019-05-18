@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "A fullstack dating application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate913/FriendFinder.git"
+  },
+  "author": "tomtom28",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nate913/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/nate913/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
